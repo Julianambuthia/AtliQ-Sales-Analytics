@@ -1,6 +1,6 @@
 # AtliQ-Sales-Analytics
 
-#Sales Report
+## Sales Report
 
 
 
